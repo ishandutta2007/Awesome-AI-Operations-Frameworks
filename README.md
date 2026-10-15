@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Operations-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Operations-Frameworks?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Operations-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Operations-Frameworks?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Operations-Frameworks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Operations-Frameworks?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Operations-Frameworks/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Operations-Frameworks" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Operations-Frameworks/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
@@ -71,9 +71,9 @@ The global AI Operations (AIOps) and automated IT Operations Management (ITOM) m
 
 ## 🛠️ Open-Source GitHub Projects
 
-Sorted in descending order by GitHub Star count. Badges link directly to each project's stargazers community page.
+Sorted in descending order by GitHub Stars_Count. Badges link directly to each project's stargazers community page.
 
-| Project & Repository | Star Badge | License | Primary Category & Operational Focus |
+| Project & Repository | Stars_Badge | License | Primary Category & Operational Focus |
 | :--- | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Fair-code (Sustainable Use) | **Workflow Automation**: Visual workflow automation with 400+ nodes, webhooks, and AI agent connectors for automated operational alerting, triage, and self-healing. |
 | **[Kubernetes](https://github.com/kubernetes/kubernetes)** | [![Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white)](https://github.com/kubernetes/kubernetes/stargazers) | Apache-2.0 | **Container Orchestration**: The ubiquitous cloud-native foundation for AI workloads, GPU node clustering, microservices, and auto-scaling harness infrastructure. |
@@ -167,3 +167,12 @@ Thank you for exploring and supporting **Awesome AI Operations Frameworks**! If 
 <p align="center">
   <b>Built with ❤️ for platform engineers, SREs, MLOps practitioners, and developers building the future of autonomous AI operations.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-AI-Operations-Frameworks&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-AI-Operations-Frameworks_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-AI-Operations-Frameworks_growth.svg">
+  </picture>
+</a>
