@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -37,6 +39,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global AI Operations (AIOps) and automated IT Operations Management (ITOM) market is estimated at **$18B–$21B in 2026** and projected to surpass **$40B by 2030** (growing at a ~22–30% CAGR). The market structure is **moderately fragmented yet increasingly bifurcated**: hyperscalers (AWS, Azure, Google Cloud) dominate foundational native infrastructure operations in a semi-concentrated winner-take-most dynamic, while an active, fragmented ecosystem of independent multi-cloud orchestration and policy platforms (such as HashiCorp, Spacelift, and PagerDuty) competes aggressively for multi-cloud, vendor-neutral enterprise deployments.
 
 
 
