@@ -71,7 +71,7 @@ The global AI Operations (AIOps) and automated IT Operations Management (ITOM) m
 
 ## 🛠️ Open-Source GitHub Projects
 
-Sorted in descending order by GitHub Stars_Count. Badges link directly to each project's stargazers community page.
+Sorted in descending order by GitHub_Stars_Count. Badges link directly to each project's stargazers community page.
 
 | Project & Repository | Stars_Badge | License | Primary Category & Operational Focus |
 | :--- | :--- | :--- | :--- |
